@@ -4,8 +4,6 @@
 
 **Credits/ECTS:** 3 Credits / 6 ECTS
 
-This I added in the lecture
-
 **Class/Laboratory/PS schedule:** 
 
 	Monday 13:00-15:00 – Regular Class VYKM2
