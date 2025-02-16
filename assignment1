@@ -1,0 +1,7 @@
+list = [ i for i in range(10000) ]
+print(list)
+x = 0
+for i in list:
+    x += i
+
+print(x)
